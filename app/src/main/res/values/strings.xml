@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android3KotlinLes1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_any_text_here">Input any text here</string>
+    <string name="add_new_element">Add new element</string>
+</resources>
